@@ -29,4 +29,4 @@ idna==2.10
 chardet==3.0.4
 urllib3==1.24.3
 six==1.15.0
-tpot
+tpot==0.10.2
